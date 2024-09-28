@@ -196,12 +196,13 @@ a .header-icon__i--user{
 .logo-dangnhap{
     width: 40px;
 }
-a{
+.dangky{
     text-decoration: none;
+    color: red;
+    padding-left: 10px;
 }
 .form-dangky{
     color: #fff;
-    padding-left: 7px;
     padding-top: 30px;
     text-align: center;
 }
