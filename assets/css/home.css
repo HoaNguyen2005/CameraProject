@@ -1,0 +1,8 @@
+.banner{
+    margin: 10px 0;
+}
+
+.banner__div--slide #banner-img{
+    height: 305px;
+    width: 100%;
+}
