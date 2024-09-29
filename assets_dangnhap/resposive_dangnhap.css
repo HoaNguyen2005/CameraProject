@@ -1,0 +1,14 @@
+@media screen and (max-width: 1028px) {
+    .footer{
+        background-color: black;
+    }
+    .footer-information{
+        display: none;
+        flex-direction: column;
+        list-style: none;
+    }
+    .toggle{
+        display: block;
+    }
+
+}
